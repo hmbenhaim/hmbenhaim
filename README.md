@@ -41,11 +41,11 @@ I'm a passionate Full Stack Engineer with extensive experience in developing and
 - Sharing knowledge and mentoring fellow developers
 
 ## 📫 Get in Touch
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/henry-haim-benhaim-73a887207/)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/henry-haim-benhaim-73a887207/)
 
 Feel free to reach out if you want to collaborate on projects or just have a chat about tech!
 
 ---
 
-⭐️ From Henry
+⭐️ From Henry Benhaim 🩵
 
