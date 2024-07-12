@@ -1,0 +1,3 @@
+when switiching user on mac run:
+user % git config --global --add safe.directory /path/to/flutter/sdk
+user % sudo chown -R $(whoami) /opt/homebrew/Caskroom/flutter
