@@ -13,6 +13,7 @@ I'm a passionate Full Stack Engineer with extensive experience in developing and
   - Flutter 💙
   - Dart 🎯
   - TypeScript & Node.js 💚
+  - React & NextJS 💜
 
 - **Cloud Platforms:**
   - AWS ☁️
